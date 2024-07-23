@@ -1,2 +1,0 @@
-# watermark-detection
-anurag
